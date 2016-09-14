@@ -5,8 +5,8 @@
 .mtj.tmp/
 
 # Package Files #
-*.war
-*.ear
+#*.war
+#*.ear
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
@@ -14,18 +14,18 @@ hs_err_pid*
 *.iws
 *.iml
 *.ipr
-out
-build
+#out
+#build
 .gradle
 gradle.properties
 .idea
-common/src/querydsl
-common/src/generated
-core/src/generated
+#common/src/querydsl
+#common/src/generated
+#core/src/generated
 *.log
-target
-UI/node
-UI/src/app/local-testing.js
+#target
+#UI/node
+#UI/src/app/local-testing.js
 *.releaseBackup
 docker-compose.override.yml
 logs
