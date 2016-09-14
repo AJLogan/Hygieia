@@ -1,0 +1,12 @@
+/Users/andrew/Hygieia/collectors/deploy/udeploy/src/main/java/com/capitalone/dashboard/collector/DefaultUDeployClient.java
+/Users/andrew/Hygieia/collectors/deploy/udeploy/src/main/java/com/capitalone/dashboard/collector/UDeployClient.java
+/Users/andrew/Hygieia/collectors/deploy/udeploy/src/main/java/com/capitalone/dashboard/collector/UDeployCollectorTask.java
+/Users/andrew/Hygieia/collectors/deploy/udeploy/src/main/java/com/capitalone/dashboard/model/UDeployEnvResCompData.java
+/Users/andrew/Hygieia/collectors/deploy/udeploy/src/main/java/com/capitalone/dashboard/repository/UDeployApplicationRepository.java
+/Users/andrew/Hygieia/collectors/deploy/udeploy/src/main/java/com/capitalone/dashboard/collector/UDeploySettings.java
+/Users/andrew/Hygieia/collectors/deploy/udeploy/src/main/java/com/capitalone/dashboard/model/UDeployCollector.java
+/Users/andrew/Hygieia/collectors/deploy/udeploy/src/main/java/com/capitalone/dashboard/repository/UDeployCollectorRepository.java
+/Users/andrew/Hygieia/collectors/deploy/udeploy/src/main/java/com/capitalone/dashboard/model/Environment.java
+/Users/andrew/Hygieia/collectors/deploy/udeploy/src/main/java/com/capitalone/dashboard/Application.java
+/Users/andrew/Hygieia/collectors/deploy/udeploy/src/main/java/com/capitalone/dashboard/collector/RestOperationsSupplier.java
+/Users/andrew/Hygieia/collectors/deploy/udeploy/src/main/java/com/capitalone/dashboard/model/UDeployApplication.java

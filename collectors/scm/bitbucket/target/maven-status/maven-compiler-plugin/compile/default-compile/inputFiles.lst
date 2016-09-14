@@ -1,0 +1,9 @@
+/Users/andrew/Hygieia/collectors/scm/bitbucket/src/main/java/com/capitalone/dashboard/Application.java
+/Users/andrew/Hygieia/collectors/scm/bitbucket/src/main/java/com/capitalone/dashboard/collector/GitClient.java
+/Users/andrew/Hygieia/collectors/scm/bitbucket/src/main/java/com/capitalone/dashboard/collector/GitCollectorTask.java
+/Users/andrew/Hygieia/collectors/scm/bitbucket/src/main/java/com/capitalone/dashboard/collector/DefaultBitbucketServerClient.java
+/Users/andrew/Hygieia/collectors/scm/bitbucket/src/main/java/com/capitalone/dashboard/collector/GitSettings.java
+/Users/andrew/Hygieia/collectors/scm/bitbucket/src/main/java/com/capitalone/dashboard/model/GitRepo.java
+/Users/andrew/Hygieia/collectors/scm/bitbucket/src/main/java/com/capitalone/dashboard/repository/GitRepoRepository.java
+/Users/andrew/Hygieia/collectors/scm/bitbucket/src/main/java/com/capitalone/dashboard/collector/DefaultBitbucketCloudClient.java
+/Users/andrew/Hygieia/collectors/scm/bitbucket/src/main/java/com/capitalone/dashboard/collector/RestOperationsSupplier.java

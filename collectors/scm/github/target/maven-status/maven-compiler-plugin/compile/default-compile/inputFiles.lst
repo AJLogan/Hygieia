@@ -1,0 +1,8 @@
+/Users/andrew/Hygieia/collectors/scm/github/src/main/java/com/capitalone/dashboard/collector/DefaultGitHubClient.java
+/Users/andrew/Hygieia/collectors/scm/github/src/main/java/com/capitalone/dashboard/collector/GitHubClient.java
+/Users/andrew/Hygieia/collectors/scm/github/src/main/java/com/capitalone/dashboard/collector/GitHubSettings.java
+/Users/andrew/Hygieia/collectors/scm/github/src/main/java/com/capitalone/dashboard/collector/GitHubCollectorTask.java
+/Users/andrew/Hygieia/collectors/scm/github/src/main/java/com/capitalone/dashboard/collector/RestOperationsSupplier.java
+/Users/andrew/Hygieia/collectors/scm/github/src/main/java/com/capitalone/dashboard/Application.java
+/Users/andrew/Hygieia/collectors/scm/github/src/main/java/com/capitalone/dashboard/repository/GitHubRepoRepository.java
+/Users/andrew/Hygieia/collectors/scm/github/src/main/java/com/capitalone/dashboard/model/GitHubRepo.java

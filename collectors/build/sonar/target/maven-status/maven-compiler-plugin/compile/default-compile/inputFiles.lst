@@ -1,0 +1,10 @@
+/Users/andrew/Hygieia/collectors/build/sonar/src/main/java/com/capitalone/dashboard/collector/RestOperationsSupplier.java
+/Users/andrew/Hygieia/collectors/build/sonar/src/main/java/com/capitalone/dashboard/model/SonarProject.java
+/Users/andrew/Hygieia/collectors/build/sonar/src/main/java/com/capitalone/dashboard/repository/SonarProjectRepository.java
+/Users/andrew/Hygieia/collectors/build/sonar/src/main/java/com/capitalone/dashboard/Application.java
+/Users/andrew/Hygieia/collectors/build/sonar/src/main/java/com/capitalone/dashboard/model/SonarCollector.java
+/Users/andrew/Hygieia/collectors/build/sonar/src/main/java/com/capitalone/dashboard/collector/DefaultSonarClient.java
+/Users/andrew/Hygieia/collectors/build/sonar/src/main/java/com/capitalone/dashboard/collector/SonarCollectorTask.java
+/Users/andrew/Hygieia/collectors/build/sonar/src/main/java/com/capitalone/dashboard/repository/SonarCollectorRepository.java
+/Users/andrew/Hygieia/collectors/build/sonar/src/main/java/com/capitalone/dashboard/collector/SonarClient.java
+/Users/andrew/Hygieia/collectors/build/sonar/src/main/java/com/capitalone/dashboard/collector/SonarSettings.java

@@ -1,0 +1,14 @@
+/Users/andrew/Hygieia/collectors/deploy/xldeploy/src/main/java/com/capitalone/dashboard/Application.java
+/Users/andrew/Hygieia/collectors/deploy/xldeploy/src/main/java/com/capitalone/dashboard/collector/XLDeployClient.java
+/Users/andrew/Hygieia/collectors/deploy/xldeploy/src/main/java/com/capitalone/dashboard/model/XLDeployApplicationHistoryItem.java
+/Users/andrew/Hygieia/collectors/deploy/xldeploy/src/main/java/com/capitalone/dashboard/model/XLDeployApplication.java
+/Users/andrew/Hygieia/collectors/deploy/xldeploy/src/main/java/com/capitalone/dashboard/model/XLDeployCollector.java
+/Users/andrew/Hygieia/collectors/deploy/xldeploy/src/main/java/com/capitalone/dashboard/collector/RestOperationsSupplier.java
+/Users/andrew/Hygieia/collectors/deploy/xldeploy/src/main/java/com/capitalone/dashboard/repository/XLDeployEnvironmentComponentRepository.java
+/Users/andrew/Hygieia/collectors/deploy/xldeploy/src/main/java/com/capitalone/dashboard/repository/XLDeployCollectorRepository.java
+/Users/andrew/Hygieia/collectors/deploy/xldeploy/src/main/java/com/capitalone/dashboard/model/ConfigurationItemId.java
+/Users/andrew/Hygieia/collectors/deploy/xldeploy/src/main/java/com/capitalone/dashboard/collector/DefaultXLDeployClient.java
+/Users/andrew/Hygieia/collectors/deploy/xldeploy/src/main/java/com/capitalone/dashboard/model/Environment.java
+/Users/andrew/Hygieia/collectors/deploy/xldeploy/src/main/java/com/capitalone/dashboard/collector/XLDeployCollectorTask.java
+/Users/andrew/Hygieia/collectors/deploy/xldeploy/src/main/java/com/capitalone/dashboard/collector/XLDeploySettings.java
+/Users/andrew/Hygieia/collectors/deploy/xldeploy/src/main/java/com/capitalone/dashboard/repository/XLDeployApplicationRepository.java
