@@ -19,3 +19,11 @@ notifications:
 branches:
   only:
   - master
+
+addons:
+  sonarqube:
+    token:
+      secure: "p2vSLG3ilGGsH50XkUfdbne1JcOVT6ftDZVDul71cCetQyYzlVXLeQSHOcP62KBbDzSQSKeZFqmtwWrGFFRAmQGub8JnYoOGt/0ZFLfX6Zq6RM/o5HHkCfG5QNjqbRapa/3JF7eEC+eqbaTZ3wcewtf7IhIWztBAUks575o5Pn8JQeIg6YyF18OLgaVvMRgOodHJGxisXy2vQ2NCcj9+nN2vpmyr6Ke4o6jRwTykC/f5HGtl1q86DzXQD5hMzGSDZqXYABoJiSLRdcyJG5oUojFkUFigiP6ES4bCLjjtQTOelPfwOiJiZzdQeOcf9v5zhXAEc7OB0iDUkn3WNDjvBV4d0ZM+8uEPBJnwpppkn6WCAnQ360u0u+bmAQ6WXNeYxAVRRMaoZgxIyfGK+92/56UBICROIwHPbxIrRCuiLe/iGvIqzArTtsONb75nc/4E7n2b/eJtPCVKz5GE8HDifSFXRZjJfd2FB7e2dYYz5H84/y2qnq83YAKxtQ7zmUYQ8GYbYs5rHMm3dB2D3Uh3gbYc3Jr6Kzb25oBqQJPj4mg3OwpRJNl/sAdn2sSDJ1UMh5P9mNXwGjBlkvc3y/xsxrGUF90Hu/xQJRp132lBDQPgjuEwfxO8/yyHNy13cplAwfpkmzMXff844zxdw3jH6WBy5nT2DR9fiQoLFtfr9Qk="      secure: ********* # encrypted value of your token
+script:
+  # other script steps might be done before running the actual SonarQube analysis
+  - sonar-scanner
