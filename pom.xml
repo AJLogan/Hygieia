@@ -59,7 +59,7 @@
 
   <properties>
     <spring-data-releasetrain.version>Gosling-RELEASE</spring-data-releasetrain.version>
-    <mongodb.version>3.0.2</mongodb.version>
+    <mongodb.version>3.12.5</mongodb.version>
     <mongo>3.0.2</mongo>
     <spring.version>4.1.7.RELEASE</spring.version>
     <jackson.version>2.5.0</jackson.version>
